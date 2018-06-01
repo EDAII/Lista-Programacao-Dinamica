@@ -1,4 +1,4 @@
-values, weights, table = [], [], [[]]
+table = [[]]
 itens = {}
 W = 0
 
